@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "name": "prasanna",
+      "userName": "sdfasdfa",
+      "email": "prannna@gmail.com",
+      "mobile": "8965471230",
+      "id": 6
+    },
+    {
+      "name": "Ramesh",
+      "userName": "surajsable",
+      "email": "suraj.sable@ojas-it.com",
+      "mobile": "8790519812",
+      "id": 7
+    },
+    {
+      "name": "Varsha",
+      "userName": "varsha T",
+      "email": "varsha@gmail.com",
+      "mobile": "9685231470",
+      "id": 8
+    },
+    {
+      "name": "suraj",
+      "userName": "Suraj Sable",
+      "email": "suraj@gmail.com",
+      "mobile": "8745623109",
+      "id": 9
+    }
+  ]
+}
